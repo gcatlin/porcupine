@@ -1,0 +1,1 @@
+Porcupine is a minimal, RESTful web application framework for PHP.
